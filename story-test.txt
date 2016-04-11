@@ -1,1 +1,2 @@
-the second file which named story-test.txt
+The second file which named story-test.txt!
+ha hah....
