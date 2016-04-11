@@ -1,2 +1,2 @@
 # HellWorld
-the first project on gitsub
+the first project on github
