@@ -1,2 +1,3 @@
 the first file while named story.txt
+add code here!  check the different...
 welcome to GitHub!
