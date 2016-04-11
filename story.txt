@@ -1,1 +1,2 @@
 the first file while named story.txt
+welcome to GitHub!
