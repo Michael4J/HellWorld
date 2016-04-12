@@ -1,3 +1,4 @@
-the first file while named story.txt
-add code here!  check the different...
-welcome to GitHub!
+The first file while named story.txt
+Add code here!  check the different...
+Welcome to GitHub!
+I'm comming!         -Michael4L
